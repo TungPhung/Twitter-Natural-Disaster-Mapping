@@ -1,5 +1,5 @@
 # Twitter Mapping of Natural Disasters
-## A Project by: Tung Phung, Josh Robin, Roohullah Mansoor
+A Project by: Tung Phung, Josh Robin, Roohullah Mansoor
 
 ## Goals:
 During natural disasters, emergency response service efforts are often severely hampered by available resources. Allocation of resources in a more efficient way can result in more lives and property saved. During a disaster, communication systems are often the first systems affected. This can be due in part to congestion of phone lines by emergency calls, or the inavailability of phone lines being downed due to the natural disaster themselves. By accessing social media, we have another avenue to understand the pathing of natural disasters and which areas, are affected, given cell phone data towers stay active longer than phone lines. This project seeks to use Twitter, a large social media platform to see if its users behaviors can aptly inform emergency responders of trouble areas during a true emergency situation to properly assess areas of most need.
@@ -20,19 +20,6 @@ While our results make intuitive sense, we were not able with the time constrict
 ### Example 1:
 [Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)
 
-
-
-
-
-### Example 2:
-[Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.57%20AM.png)
-
-
-
-
-
-### Example 3:
-[Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.40.29%20AM.png)
 
 
 
