@@ -16,7 +16,11 @@ Using python, we utilized twitterscaper (https://github.com/taspinar/twitterscra
 ## Conclusions and Recommendations:
 While our results make intuitive sense, we were not able with the time constrictions able to correlate the actual twitter data with actual on-the-ground response to correlate it to real life. Since our model was unsupervised, it was appropriate, but grounding it in real-ground response with buy-in from emergency workers and stakeholders would allow us to improve our model and see where it actually missed responses where it should have been. 
 
-<p align="center">![Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)</p>
+<p align="center">
+  
+  ![Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)
+  
+</p>
 
 
 
