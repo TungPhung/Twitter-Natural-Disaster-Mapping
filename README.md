@@ -1,6 +1,8 @@
 # Twitter Mapping of Natural Disasters
 A Project by: Tung Phung, Josh Robin, Roohullah Mansoor
 
+![Twitter](https://www.saydaily.com/.image/t_share/MTM0ODg3OTkwOTMyNTc1NTA2/screen-shot-2015-12-03-at-22820-pmpng.png)
+
 ## Goals:
 During natural disasters, emergency response service efforts are often severely hampered by available resources. Allocation of resources in a more efficient way can result in more lives and property saved. In a disaster event, communication systems are often the first systems affected. This can be due in part to congestion of phone lines by emergency calls, or the inavailability of phone lines being downed due to the natural disaster themselves. By accessing social media, we have another avenue to understand the pathing of natural disasters and which areas are affected given cell phone data towers stay active longer than phone lines. This project seeks to use Twitter, a large social media platform to see if its users behaviors can aptly inform emergency responders of trouble areas during a true emergency situation to properly assess areas of most need.
 
@@ -20,13 +22,13 @@ As such, the workflow for an emergency response person would be such. They would
 While our results make intuitive sense, we were not able with the time constrictions able to correlate the actual twitter data with actual on-the-ground response to correlate it to real life. Since our model was unsupervised, it was appropriate, but grounding it in real-ground response with buy-in from emergency workers and stakeholders would allow us to improve our model and see where there were positive or negative respones. This would be a huge stepping stone in the model's legitimacy. We would also seek to not only improve it for a wider range of disasters, but also generate Word2Vec models to allow for users to put in a basic word such as "hurricane" and the system would generate a series of related words that it would also search for to increase coverage of teh search terms. We would also use Word2Vec to generate the danger words based on the danger-positive tweets. Hopefully, we would be able to train the system beyond needing to use our own creator-generated values.
 
 ### Example 1:
-[Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)
+![Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)
 
 ### Example 2:
-[Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.57%20AM.png)
+![Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.57%20AM.png)
 
 ### Example 3:
-[Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.40.29%20AM.png)
+![Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.40.29%20AM.png)
 
 
 
