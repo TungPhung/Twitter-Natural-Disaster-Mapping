@@ -18,20 +18,14 @@ While our results make intuitive sense, we were not able with the time constrict
 
 
 ### Example 1:
-<p align="center">
 [Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.42%20AM.png)
-</p>
 
 ### Example 2:
-<p align="center">
 [Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.39.57%20AM.png)
-</p>
-
 
 ### Example 3:
-<p align="center">
 [Screenshot](https://github.com/TungPhung/Twitter-Natural-Disaster-Mapping/blob/master/images/Screen%20Shot%202019-04-26%20at%207.40.29%20AM.png)
-</p>
+
 
 
 
